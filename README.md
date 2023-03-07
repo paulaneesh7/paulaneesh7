@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vincenzo7v2" target="blank"><img src="https://img.shields.io/twitter/follow/vincenzo7v2?logo=twitter&style=for-the-badge" alt="vincenzo7v2" /></a> </p>
 
-- 🔭 I’m currently working on **Banking Application Project**
+- 🔭 I’m currently working on **Bankist Application Website**
 
 - 🌱 I’m currently learning **JavaScript**
 
