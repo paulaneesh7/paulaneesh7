@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aneesh16117@gmail.com**
 
-- ⚡ Fun fact **I like investing time onto watching Shows and movies**
+- ⚡ Fun fact **I like investing time into exploring different techs, tools and frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
