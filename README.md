@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Bankist Application Website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Supabase**
 
 - 💬 Ask me about **Front-End Web Development**
 
