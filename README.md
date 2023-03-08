@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vincenzo7v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincenzo7v2" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/aneesh paul](https://www.linkedin.com/in/aneesh-paul-a64aa6248/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh paul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aneesh-paul-a64aa6248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh paul" height="30" width="40" /></a>
 <a href="https://instagram.com/paulaneesh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulaneesh7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aneesh16117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aneesh16117" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aneesh_vengeance7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneesh_vengeance7" height="30" width="40" /></a>
