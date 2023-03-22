@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on todayiLearned App<br><br>🌱 I’m currently learning JavaScript and Supabase<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me aneesh16117@gmail.com<br><br>⚡ Fun fact I like investing time into exploring different techs, tools and frameworks
+🔭 I’m currently working on a React-Project <br><br>🌱 I’m currently learning JavaScript and Supabase<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me aneesh16117@gmail.com<br><br>⚡ Fun fact I like investing time into exploring different techs, tools and frameworks
 
 
 ## 🌐 Socials:
