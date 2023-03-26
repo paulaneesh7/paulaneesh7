@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.wallpapersafari.com/25/96/ihAOpL.jpg)](https://paulaneesh7.io)
+![Github_header](https://user-images.githubusercontent.com/126695924/227786113-7dc3a0f4-5c00-46ec-a528-16e7b8157fde.jpg)
+
 <h1 align="center">Hi 👋, I'm Aneesh Paul</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
