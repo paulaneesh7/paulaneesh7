@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aneesh Paul</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ## 💫 About Me:
 🔭 I’m currently working on modifying some of my projects<br><br>🌱 I’m currently learning JavaScript and Tailwind CSS<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me aneesh16117@gmail.com<br><br>⚡ Fun fact I like investing time into exploring different techs, tools and frameworks
