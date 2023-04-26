@@ -5,7 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">  
 
 ## 💫 About Me:
-🔭 I’m currently working on modifying some of my projects<br><br>🌱 I’m currently learning JavaScript and Tailwind CSS<br><br>💬 Ask me about Front-End Web Development<br><br>📫 How to reach me aneesh16117@gmail.com<br><br>⚡ Fun fact I like investing time into exploring different techs, tools and frameworks
+* 🖥️  See my portfolio at [paulaneesh7](http://https://paulaneesh7.netlify.app/)
+* ✉️  You can contact me at [aneesh16117@gmail.com](mailto:aneesh16117@gmail.com)
+* 🧠  I'm learning JavaScript and Tailwind CSS
+* 🤝  I'm open to collaborating on projects
+* ⚡  I'm from Krypton... but don't tell anyone
 
 
 ## 🌐 Socials:
