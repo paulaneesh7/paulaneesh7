@@ -25,7 +25,6 @@
 
 <a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulaneesh7&stroke=f97316&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=f97316&currStreakLabel=14b8a6&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paulaneesh7&bg_color=000000&color=f97316&line=14b8a6&point=f97316&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/paulaneesh7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaneesh7&langs_count=10&title_color=14b8a6&text_color=f97316&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
