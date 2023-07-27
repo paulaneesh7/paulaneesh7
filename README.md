@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulaneesh7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-paul-a64aa6248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzo7v2) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,tailwindcss,javascript,react,mysql,supabase,firebase,git,github,linux,netlify,replit,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,tailwindcss,javascript,react,mysql,supabase,firebase,git,github,linux,netlify,vite,md,replit,vscode&perline=10)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-stats.vercel.app/api?username=paulaneesh7&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=f97316&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="paulaneesh7's GitHub stats" /></a>
