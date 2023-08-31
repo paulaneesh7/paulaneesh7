@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulaneesh7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-paul-a64aa6248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzo7v2) 
 
-## 💻 Tech Stack:
+## 💻 Stuff I know:
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,tailwindcss,javascript,react,styledcomponents,mysql,supabase,firebase,git,github,linux,netlify,vite,md,replit,vscode&perline=10)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
