@@ -20,7 +20,7 @@ Final year CSE student and skilled front-end developer passionate about creating
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulaneesh7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-paul-a64aa6248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzo7v2) 
 
 ## 💻 Stuff I know:
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,tailwindcss,javascript,react,svelte,redux,styledcomponents,sqlite,supabase,git,github,linux,vite,md,replit,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,tailwindcss,javascript,react,svelte,redux,styledcomponents,postgres,supabase,git,github,linux,vite,md,replit,vscode,vercel&perline=12)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-stats.vercel.app/api?username=paulaneesh7&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=f97316&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="paulaneesh7's GitHub stats" /></a>
