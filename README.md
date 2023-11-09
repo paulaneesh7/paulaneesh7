@@ -1,8 +1,9 @@
 ![Github_header](https://user-images.githubusercontent.com/126695924/227786113-7dc3a0f4-5c00-46ec-a528-16e7b8157fde.jpg)
 
 <h1 align="center">Hi 👋, I'm Aneesh Paul</h1>
-<h3 align="center">Frontend Developer</h3>
+<!-- <h3 align="center">Frontend Developer</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">   -->
+Final year CSE student and skilled front-end developer passionate about creating seamless user experiences. Eager to contribute innovative solutions.
 
 
 ## 💫 About Me:
