@@ -15,7 +15,7 @@
 
 <!-- My Skills -->
 
-### Technologies ⚛️
+## Technologies ⚛️
 
 **Language**: `JavaScript` `Python` `Java`
 
@@ -29,7 +29,7 @@
 
 <!-- Extra -->
 
-### Some things I like to do 👇
+## Some things I like to do 👇
 - Reading blogs and articles on web development or programming in general.
 - Learning new technologies and frameworks.
 - Immersed in anime and manga worlds, finding joy in captivating stories.
@@ -37,7 +37,7 @@
 
 <!-- Contact me -->
 
-### Connect with me 😀
+## Connect with me 😀
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
 
 - 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/aneesh-paul-a64aa6248/) or on [github](https://github.com/paulaneesh7).
