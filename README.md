@@ -37,7 +37,6 @@
 
 <!-- Contact me -->
 
-## Connect with me 😀
+## Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
-
 - 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/aneesh-paul-a64aa6248/) or on [github](https://github.com/paulaneesh7).
