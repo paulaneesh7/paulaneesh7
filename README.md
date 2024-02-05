@@ -1,41 +1,43 @@
-![Github_header](https://user-images.githubusercontent.com/126695924/227786113-7dc3a0f4-5c00-46ec-a528-16e7b8157fde.jpg)
-
-<h1 align="center">Hi 👋, I'm Aneesh Paul</h1>
-<!-- <h3 align="center">Frontend Developer</h3> -->
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">   -->
-Final year CSE student and skilled front-end developer passionate about creating seamless user experiences. Eager to contribute innovative solutions.
 
 
-## 💫 About Me:
-- 🤝 I'm open to collaborating on **projects**
+### Hi there 👋
 
-- 💬 Ask me about **Front-End Web Development**
-
-- 📫 How to reach me **aneesh16117@gmail.com**
-
-- ⚡ I'm from Krypton... **but don't tell anyone 🤫**
+<img width="30%" style="border-radius: 40%;" align="right" src="https://media.giphy.com/media/Tgvn82bqJT36lkVqDZ/giphy.gif?cid=790b7611vmut6fbfq50cv8zqf55adghe55pkmah827jivlhr&ep=v1_gifs_search&rid=giphy.gif&ct=s">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulaneesh7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-paul-a64aa6248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vincenzo7v2) 
+<!-- Introduction -->
 
-## 💻 Stuff I know:
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,tailwindcss,javascript,react,svelte,redux,styledcomponents,postgres,supabase,git,github,linux,vite,md,replit,vscode,vercel&perline=12)](https://skillicons.dev)
+- 🙋‍♂️ I'm Aneesh Paul, a programming enthusiast.
+- 🚀 I'm learning **Full-stack** at the moment.
+- ✨ Ask me about **Front-End Development**.
+- 🤝 I'm open to collaborating on projects.
+- ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 
-## 📊 GitHub Stats:
-<a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-stats.vercel.app/api?username=paulaneesh7&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=f97316&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="paulaneesh7's GitHub stats" /></a>
+<!-- My Skills -->
 
-<a href="http://www.github.com/paulaneesh7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulaneesh7&stroke=f97316&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=f97316&currStreakLabel=14b8a6&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+### Technologies ⚛️
 
+**Language**: `JavaScript` `Python` `Java`
 
-<a href="https://github.com/paulaneesh7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaneesh7&langs_count=10&title_color=14b8a6&text_color=f97316&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Frontend**: `React` `HTML` `CSS` `Tailwind` `Redux` `Styled Components`
 
+**Backend**: `Express` `MongoDB` `SQL` `Supabase` `Postman`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Version Control**: `Git` `GitHub`
 
----
-[![](https://visitcount.itsvg.in/api?id=paulaneesh7&icon=0&color=0)](https://visitcount.itsvg.in)
+**Others**: `Markdown` `Notion` `VSCode` `Linux` `Vercel`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Extra -->
 
+### Some things I like to do 
+- Reading blogs and articles on web development or programming in general.
+- Learning new technologies and frameworks.
+- Immersed in anime and manga worlds, finding joy in captivating stories.
+- Enthusiastic about Football.
+
+<!-- Contact me -->
+
+### Connect with me
+- 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
+
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/aneesh-paul-a64aa6248/) or on [github](https://github.com/paulaneesh7).
