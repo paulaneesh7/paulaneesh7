@@ -25,7 +25,7 @@
 
 **Version Control**: `Git` `GitHub`
 
-**Others**: `Markdown` `Notion` `VSCode` `Linux` `Vercel`
+**Others**: `Markdown` `Notion` `VSCode` `Postman` `Linux` `Vercel`
 
 <!-- Extra -->
 
