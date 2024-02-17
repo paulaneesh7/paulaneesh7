@@ -21,7 +21,7 @@
 
 **Frontend**: `React` `HTML` `CSS` `Tailwind` `Redux` `Styled Components`
 
-**Backend**: `Express` `MongoDB` `SQL` `Supabase` `Postman`
+**Backend**: `Express` `MongoDB` `Mongoose` `SQL` `Supabase` `Postman`
 
 **Version Control**: `Git` `GitHub`
 
