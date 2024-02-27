@@ -15,7 +15,7 @@
 
 <!-- My Skills -->
 
-## Technologies ⚛️
+### Technologies ⚛️
 
 **Language**: `JavaScript` `Python` `Java`
 
