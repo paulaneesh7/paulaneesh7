@@ -17,9 +17,9 @@
 
 ### Technologies ⚛️
 
-**Language**: `JavaScript` `Python` `Java`
+**Language**: `JavaScript` `TypeScript` `Java`
 
-**Frontend**: `React` `HTML` `CSS` `Tailwind` `Redux` `Styled Components`
+**Frontend**: `React` `HTML` `CSS` `Tailwind` `Recoil` `Styled Components`
 
 **Backend**: `Express` `MongoDB` `Mongoose` `SQL` `Supabase` `Postman`
 
