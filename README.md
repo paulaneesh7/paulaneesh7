@@ -26,9 +26,6 @@
 - Immersed in anime and manga worlds, finding joy in captivating stories.
 - Enthusiastic about Football.
 
-<img src="https://raw.githubusercontent.com/paulaneesh7/paulaneesh7/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Contact me -->
 
