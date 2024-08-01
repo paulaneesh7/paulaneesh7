@@ -8,8 +8,8 @@
 <!-- Introduction -->
 
 - 🙋‍♂️ I'm Aneesh Paul, a programming enthusiast.
-- 🚀 I'm learning **Full-stack** at the moment.
-- ✨ Ask me about **Front-End Development**.
+- 🚀 I'm learning **Golang** at the moment.
+- ✨ Ask me about **Fullstack Development**.
 - 🤝 I'm open to collaborating on projects.
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 
